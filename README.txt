@@ -7,3 +7,5 @@
 - Scrapper for module CZ4034 Information Retrieval
 - Scrapes the first page (25 stories) of every movie within the https://www.fanfiction.net/movie/
 - Stores in .json format
+
+bs4, Multi Threading, Thread Synchronization
